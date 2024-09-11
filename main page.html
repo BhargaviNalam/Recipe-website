@@ -10,7 +10,23 @@
     <div class="banner">
         <h6 style="color: antiquewhite; font-family: Arial, Helvetica, sans-serif;" class="c"><i>Explore your indian </i></h6>
         <input type="text" placeholder="Search.." name="search" class="d">
-        <button type="submit"><i class="fa fa-search"></i></button>
+        <button type="submit" onclick="ha"><i class="fa fa-search"></i></button>
     </div>
+    <script>
+    function handleSearch() {
+        const searchQuery = document.getElementById('searchInput').value.trim().toLowerCase();
+        // Basic example of handling search query
+        if (searchQuery === "andhra pradesh") {
+          window.location.href = "andhra pradesh.html"; // Redirect to home.html
+        } else if (searchQuery === "Telegna") {
+          window.location.href = "Telegana.html"; // Redirect to about.html
+        } else if (searchQuery === "goa") {
+          window.location.href = "goa.html"; // Redirect to contact.html
+        } else {
+          // Default action if no match is found
+          alert("No matching page found for the query: " + searchQuery);
+        }
+      }
+    </script>
 </body>
 </html>
