@@ -1,5 +1,0 @@
-<h4 class="b">"Indian recipes are a vibrant tapestry of flavors, ingredients, and culinary techniques, reflecting the country's diverse culture and rich heritage. 
-        Each region boasts its own distinctive dishes, from the spicy curries of Punjab and the tangy fish dishes of Bengal to the aromatic biryanis of Hyderabad 
-        and the delicate dosas of South India. Indian cuisine is characterized by its use of fresh spices, herbs, and unique cooking methods, such as slow-cooking, 
-        fermenting, and tandoor baking. These recipes are not just about taste but also embody the traditions, festivals, and local produce of their respective regions, 
-        Indian food a truly diverse and flavorful experience."</h4>
